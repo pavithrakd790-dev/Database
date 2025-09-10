@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>49348ed3 Pavithra Devaiah Autos Database</title>
+  <title>49348ed3 </title>
   <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
