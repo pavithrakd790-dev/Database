@@ -4,7 +4,7 @@
 <title>Pavithra Devaiah (<!DOCTYPE html>
 <html>
 <head>
-<title>Pavithra Devaiah (49348ed3) - Autos Database</title>
+<title>49348ed3 - Autos Database</title>
 <?php include "bootstrap.php"; ?>
 </head>
 <body>
